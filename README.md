@@ -6,7 +6,6 @@ Everything is written in **MySQL 8**. There are no external files or tools to in
 
 ---
 
-## The story
 
 ShopSphere is a made-up online store. It has customers, products, orders, website visits, and a marketing budget. I imagined being the analyst on its team and answering four questions the business would care about:
 
